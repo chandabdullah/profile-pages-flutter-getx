@@ -1,12 +1,9 @@
 import 'package:get/get.dart';
-import '/config/theme/my_theme.dart';
 
-class HomeController extends GetxController {
-  onThemeChange(val) {
-    MyTheme.changeTheme();
-    update();
-  }
+class Profile4Controller extends GetxController {
+  //TODO: Implement Profile4Controller
 
+  final count = 0.obs;
   @override
   void onInit() {
     super.onInit();
@@ -21,4 +18,6 @@ class HomeController extends GetxController {
   void onClose() {
     super.onClose();
   }
+
+  void increment() => count.value++;
 }

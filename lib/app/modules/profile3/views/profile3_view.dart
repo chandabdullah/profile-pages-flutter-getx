@@ -5,8 +5,8 @@ import 'package:gap/gap.dart';
 
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:profile_pages_flutter/app/constants/app_constants.dart';
-import 'package:profile_pages_flutter/app/data/local/my_shared_pref.dart';
+import '/app/constants/app_constants.dart';
+import '/app/data/local/my_shared_pref.dart';
 
 import '../controllers/profile3_controller.dart';
 

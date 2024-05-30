@@ -68,6 +68,10 @@ class MyStyles {
             : DarkThemeColors.appBarColor,
       );
 
+  ///List Tile
+  static ListTileThemeData getListTileTheme({required bool isLightTheme}) =>
+      const ListTileThemeData();
+
   ///text theme
   static TextTheme getTextTheme({required bool isLightTheme}) => TextTheme(
         bodyLarge: Get.textTheme.bodyLarge?.copyWith(

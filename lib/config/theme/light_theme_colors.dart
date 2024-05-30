@@ -29,11 +29,11 @@ class LightThemeColors {
 
   //APPBAR
   // static Color appBarColor = const Color(0xFFe65203);
-  static Color appBarColor = primaryColor;
+  static Color appBarColor = Colors.white;
 
   //ICONS
-  static Color appBarIconsColor = Colors.white;
-  static const Color iconColor = Colors.white;
+  static Color appBarIconsColor = primaryColor;
+  static Color iconColor = primaryColor;
 
   //BUTTON
   static Color buttonColor = customSecondaryColor;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:profile_pages_flutter/app/routes/app_pages.dart';
-import 'package:profile_pages_flutter/config/theme/my_theme.dart';
+import '/app/routes/app_pages.dart';
+import '/config/theme/my_theme.dart';
 
 import '../controllers/home_controller.dart';
 
@@ -60,6 +60,14 @@ class HomeView extends GetView<HomeController> {
                   title: "Profile Page 3",
                   onTap: () {
                     Get.toNamed(Routes.PROFILE3);
+                  },
+                ),
+                const Divider(height: 1),
+                customTile(
+                  icon: Icons.person_4,
+                  title: "Profile Page 4",
+                  onTap: () {
+                    Get.toNamed(Routes.PROFILE4);
                   },
                 ),
               ],

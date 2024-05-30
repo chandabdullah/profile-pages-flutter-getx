@@ -8,6 +8,8 @@ import '../modules/profile2/bindings/profile2_binding.dart';
 import '../modules/profile2/views/profile2_view.dart';
 import '../modules/profile3/bindings/profile3_binding.dart';
 import '../modules/profile3/views/profile3_view.dart';
+import '../modules/profile4/bindings/profile4_binding.dart';
+import '../modules/profile4/views/profile4_view.dart';
 
 part 'app_routes.dart';
 
@@ -36,6 +38,11 @@ class AppPages {
       name: _Paths.PROFILE3,
       page: () => const Profile3View(),
       binding: Profile3Binding(),
+    ),
+    GetPage(
+      name: _Paths.PROFILE4,
+      page: () => const Profile4View(),
+      binding: Profile4Binding(),
     ),
   ];
 }

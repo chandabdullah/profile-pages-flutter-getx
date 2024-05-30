@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:gap/gap.dart';
 
 import 'package:get/get.dart';
-import 'package:profile_pages_flutter/app/constants/app_constants.dart';
+import '/app/constants/app_constants.dart';
 
 import '../controllers/profile1_controller.dart';
 

@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:profile_pages_flutter/app/data/local/my_shared_pref.dart';
+import '/app/data/local/my_shared_pref.dart';
 
 import '/config/theme/dark_theme_colors.dart';
 import '/config/theme/light_theme_colors.dart';
@@ -85,6 +85,8 @@ class MyTheme {
 
       // input theme
       inputDecorationTheme: MyStyles.getInputTheme(isLightTheme: isLight),
+
+      listTileTheme: MyStyles.getListTileTheme(isLightTheme: isLight),
     );
   }
 
