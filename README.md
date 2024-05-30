@@ -7,7 +7,7 @@ Easily copy paste the UI/UX of any Profile Page and Make your UI/UX more expensi
 
 ### Features
 
-- 3 types of Profile pages
+- Different types of Profile pages
 - Dark Mode and Light Mode
 - Easy implementation
 
