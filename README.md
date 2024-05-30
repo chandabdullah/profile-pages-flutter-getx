@@ -26,10 +26,10 @@ Easily copy paste the UI/UX of any Profile Page and Make your UI/UX more expensi
         </tr>
         <tr>
             <td>
-                <img src="https://github.com/chandabdullah/chat_app_flutter_getx_supabase/blob/main/assets/presentation/chat%20messages.png" height="500" alt="profile_1_light.png"/>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_1/profile_1_light.png" height="500" alt="profile_1_light.png"/>
             </td>
             <td>
-                <img src="https://github.com/chandabdullah/chat_app_flutter_getx_supabase/blob/main/assets/presentation/chat%20attachements%20(image%20&%20video).png" height="500" alt="profile_1_dark.png"/>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_1/profile_1_dark.png" height="500" alt="profile_1_dark.png"/>
             </td>
         </tr>
     </table>
@@ -46,10 +46,10 @@ Easily copy paste the UI/UX of any Profile Page and Make your UI/UX more expensi
         </tr>
         <tr>
             <td>
-                <img src="https://github.com/chandabdullah/chat_app_flutter_getx_supabase/blob/main/assets/presentation/chat%20messages.png" height="500" alt="profile_2_light.png"/>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_2/profile_2_light.png" height="500" alt="profile_2_light.png"/>
             </td>
             <td>
-                <img src="https://github.com/chandabdullah/chat_app_flutter_getx_supabase/blob/main/assets/presentation/chat%20attachements%20(image%20&%20video).png" height="500" alt="profile_2_dark.png"/>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_2/profile_2_dark.png" height="500" alt="profile_2_dark.png"/>
             </td>
         </tr>
     </table>
@@ -66,10 +66,10 @@ Easily copy paste the UI/UX of any Profile Page and Make your UI/UX more expensi
         </tr>
         <tr>
             <td>
-                <img src="https://github.com/chandabdullah/chat_app_flutter_getx_supabase/blob/main/assets/presentation/chat%20messages.png" height="500" alt="profile_3_light.png"/>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_3/profile_3_light.png" height="500" alt="profile_3_light.png"/>
             </td>
             <td>
-                <img src="https://github.com/chandabdullah/chat_app_flutter_getx_supabase/blob/main/assets/presentation/chat%20attachements%20(image%20&%20video).png" height="500" alt="profile_3_dark.png"/>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_3/profile_3_dark.png" height="500" alt="profile_3_dark.png"/>
             </td>
         </tr>
     </table>
