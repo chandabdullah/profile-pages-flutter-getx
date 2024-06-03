@@ -19,7 +19,7 @@ class HomeView extends GetView<HomeController> {
           bottom: PreferredSize(
             preferredSize: Size.fromHeight(50),
             child: SwitchListTile(
-              value: !MyTheme.getThemeIsLight,
+              value: controller.isLightMode,
               secondary: Icon(
                 Icons.dark_mode,
                 color: Get.theme.appBarTheme.iconTheme?.color,
@@ -68,6 +68,14 @@ class HomeView extends GetView<HomeController> {
                   title: "Profile Page 4",
                   onTap: () {
                     Get.toNamed(Routes.PROFILE4);
+                  },
+                ),
+                const Divider(height: 1),
+                customTile(
+                  icon: Icons.person,
+                  title: "Profile Page 5",
+                  onTap: () {
+                    Get.toNamed(Routes.PROFILE5);
                   },
                 ),
               ],

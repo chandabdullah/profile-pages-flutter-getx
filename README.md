@@ -90,6 +90,25 @@ Easily copy paste the UI/UX of any Profile Page and Make your UI/UX more expensi
             </td>
         </tr>
     </table>
+    <h3>Page 5</h3>
+    <table>
+        <tr>
+            <td>
+                <h3>Light Mode</h3>
+            </td>
+            <td>
+                <h3>Dark Mode</h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_5/profile_5_light.png" height="500" alt="profile_5_light.png"/>
+            </td>
+            <td>
+                <img src="https://github.com/chandabdullah/profile-pages-flutter-getx/blob/main/assets/images/profile_5/profile_5_dark.png" height="500" alt="profile_5_dark.png"/>
+            </td>
+        </tr>
+    </table>
 </html>
 
 ## License

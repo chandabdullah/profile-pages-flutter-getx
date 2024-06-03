@@ -2,6 +2,8 @@ import 'package:get/get.dart';
 import '/config/theme/my_theme.dart';
 
 class HomeController extends GetxController {
+  bool get isLightMode => !MyTheme.getThemeIsLight;
+
   onThemeChange(val) {
     MyTheme.changeTheme();
     update();

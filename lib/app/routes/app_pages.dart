@@ -10,6 +10,8 @@ import '../modules/profile3/bindings/profile3_binding.dart';
 import '../modules/profile3/views/profile3_view.dart';
 import '../modules/profile4/bindings/profile4_binding.dart';
 import '../modules/profile4/views/profile4_view.dart';
+import '../modules/profile5/bindings/profile5_binding.dart';
+import '../modules/profile5/views/profile5_view.dart';
 
 part 'app_routes.dart';
 
@@ -43,6 +45,11 @@ class AppPages {
       name: _Paths.PROFILE4,
       page: () => const Profile4View(),
       binding: Profile4Binding(),
+    ),
+    GetPage(
+      name: _Paths.PROFILE5,
+      page: () => const Profile5View(),
+      binding: Profile5Binding(),
     ),
   ];
 }
